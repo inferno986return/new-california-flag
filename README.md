@@ -7,7 +7,9 @@ Archive from Eric Muss-Barnes website: https://web.archive.org/web/2019020523551
 <span style="text-align: center;">DESIGNED BY ERIC MUSS-BARNES</span>
 <span style="text-align: center;">23 JANUARY 2018</span>
 
-## BACKGROUND OF NEW CALIFORNIA If my fellow Americans recall their American history, you remember the state of Virginia suffered from a great deal of political turmoil during the Civil War. As a result, residents from West Virginia decided to secede from Virginia and create a new state. This was not a quick and easy process. In fact, from the first stirrings of creating West Virginia until the day the federal government recognized West Virginia as a state, took about 60 years.
+## BACKGROUND OF NEW CALIFORNIA
+
+If my fellow Americans recall their American history, you remember the state of Virginia suffered from a great deal of political turmoil during the Civil War. As a result, residents from West Virginia decided to secede from Virginia and create a new state. This was not a quick and easy process. In fact, from the first stirrings of creating West Virginia until the day the federal government recognized West Virginia as a state, took about 60 years.
 
 Today, there is a great deal of political contention in the state of California. As a result, there are a number of movements among California residents to secede from California and create a new state.
 Treasonous socialists are looking to leave the United States and turn California into an independent country.
@@ -30,7 +32,9 @@ This document serves to show my idea for the New California state flag and expla
 For more information on the state of New California, visit:
 www.NewCaliforniaState.com
 
-## BRIEF HISTORY OF FLAGS & HERALDRY Most modern flags are designed to follow rules of color combinations, established centuries ago, from medieval coats of arms. The artistry of drawing and establishing these guidelines was known as “heraldry”.
+## BRIEF HISTORY OF FLAGS & HERALDRY
+
+Most modern flags are designed to follow rules of color combinations, established centuries ago, from medieval coats of arms. The artistry of drawing and establishing these guidelines was known as “heraldry”.
 
 All heraldic designs used a number of primary colors known as “tinctures”. These tinctures were divided into two main groups. There were two “metals” and five “colors”.
 
@@ -72,3 +76,5 @@ The text of “New California” is strangely offset. Instead of being centered 
 The motto of “A More Perfect Union” conforms to the tincture rules properly (gold atop a color) but again, it is offset in a rather uneven way. Pushed slightly to the right of center, it feels unbalanced and awkward.
 
 Despite the numerous tincture flaws with this design, the overall layout is very balanced and aesthetically pleasing. In my design, I have tried to mirror some of these design elements (a similarly-positioned stripe and canton) in honor of this first flag design.
+
+## NEW CALIFORNIA FLAG DESIGN INSPIRATIONS
